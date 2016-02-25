@@ -803,7 +803,7 @@ Sometimes, you need to manually set the validation error message such as server-
 
 - **Arguments:**
   - `Array<Object>` errors
-    - `{String}` feild 
+    - `{String}` field 
     - `{String}` message
     - `{String}` validator [optional]
 
